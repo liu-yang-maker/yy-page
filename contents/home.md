@@ -1,7 +1,11 @@
 
 Yun and Yang's Website
 
-Welcome to our love-themed Home! 💖
+#### About
+
+Welcome to our love-themed Home! 💖 Xiaoyun and [Yang Liu](https://liu-yang-maker.github.io/Liu.Y/)
+
+![Our cats: huihui, sansan and juanjuan(comming...)](./figs/huisan.png)
 
 #### Email
 liuyang2020[at]amss.ac.cn
