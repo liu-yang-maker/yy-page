@@ -1,14 +1,7 @@
 
 
-  
+- 2023.10.25 - 2023.10.28, Shenyang, China: Travel
 
+- 2023.12.01 - 2023.12.05, Shanghai, China: Travel and Conference
 
-- First-prize Academic Scholarship, 2023.
-
-- Freshman Academic Scholarship, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- 2024.02.03 - 2024.02.06, Chengdu, China: Yang visit Yun's Family before Chinese New Year
