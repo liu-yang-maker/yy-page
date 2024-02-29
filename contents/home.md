@@ -8,7 +8,7 @@ Welcome to our love-themed Home! 💖 Xiaoyun and [Yang Liu](https://liu-yang-ma
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="./figs/huisan.png" width=600> 
+    src="https://raw.githubusercontent.com/liu-yang-maker/yy-page/main/contents/figs/huisan.png" width=600> 
     <br>
     <div style="color:orange;
     display: inline-block;
