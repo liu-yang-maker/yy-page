@@ -5,7 +5,16 @@ Yun and Yang's Website
 
 Welcome to our love-themed Home! 💖 Xiaoyun and [Yang Liu](https://liu-yang-maker.github.io/Liu.Y/)
 
-![Our cats: huihui, sansan and juanjuan(comming...)](./figs/huisan.png)
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="./figs/huisan.png" width=600> 
+    <br>
+    <div style="color:orange;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">our cats: huihui, sansan and juanjuan(comming...)</div>
+</center>
 
 #### Email
 liuyang2020[at]amss.ac.cn
