@@ -1,13 +1,15 @@
 
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
+Yun and Yang's Homepage
 
 #### Email
-sli[at]cumt.edu.cn
+liuyang2020[at]amss.ac.cn
 
-#### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
+#### Experiments
+2023.10.25 - 2023.10.28, Shenyang, China: Travel
 
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
+2023.12.01 - 2023.12.05, Shanghai, China: Travel and Conference
 
-#### Research Intersts
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+2024.02.03 - 2024.02.06, Chengdu, China: Yang visit Yun's Family before Chinese New Year
+
+#### Plans
+2024.05.01, Jiujiang, China: Yun visit Yang's Family
