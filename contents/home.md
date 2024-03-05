@@ -26,5 +26,16 @@ liuyang2020[at]amss.ac.cn
 
 2024.02.03 - 2024.02.06, Chengdu, China: Yang visit Yun's Family before Chinese New Year
 
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://raw.githubusercontent.com/liu-yang-maker/yy-page/main/contents/figs/chengdu1.png" width=600> 
+    <br>
+    <div style="color:orange;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">first time in Chengdu with you</div>
+</center>
+
 #### Plans
 2024.05.01, Jiujiang, China: Yun visit Yang's Family
