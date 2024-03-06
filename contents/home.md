@@ -59,13 +59,15 @@ liuyang2020[at]amss.ac.cn
 
 Video for 2024 New Year's Eve
 
-<video width="320" height="240" controls>
+<video style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" controls>
     <source src="https://raw.githubusercontent.com/liu-yang-maker/yy-page/main/contents/videos/1.mp4" type="video/mp4">
 </video>
 
 
 Some funny videos
 
-<video width="320" height="240" controls>
+<video style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" controls>
     <source src="https://raw.githubusercontent.com/liu-yang-maker/yy-page/main/contents/videos/2.mp4" type="video/mp4">
 </video>
