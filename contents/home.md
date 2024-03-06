@@ -61,7 +61,7 @@ Video for 2024 New Year's Eve
 
 <center>
 <video style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" width="600" controls>
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" width="400" controls>
     <source src="https://raw.githubusercontent.com/liu-yang-maker/yy-page/main/contents/videos/1.mp4" type="video/mp4">
 </video>
 </center>
