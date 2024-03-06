@@ -64,3 +64,8 @@ Video for 2024 New Year's Eve
 </video>
 
 
+Some funny videos
+
+<video width="320" height="240" controls>
+    <source src="https://raw.githubusercontent.com/liu-yang-maker/yy-page/main/contents/videos/2.mp4" type="video/mp4">
+</video>
