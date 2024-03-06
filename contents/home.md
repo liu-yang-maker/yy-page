@@ -54,3 +54,13 @@ liuyang2020[at]amss.ac.cn
 2024.05.01, Jiujiang, China: Yun visit Yang's Family
 
 2024.06.26, Beijing, China: Yun's Birthday
+
+#### Others
+
+Video for 2024 New Year's Eve
+
+<video width="320" height="240" controls>
+    <source src="https://raw.githubusercontent.com/liu-yang-maker/yy-page/main/contents/videos/1.mp4" type="video/mp4">
+</video>
+
+
