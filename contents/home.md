@@ -39,6 +39,8 @@ liuyang2020[at]amss.ac.cn
 
 2024.02.03 - 2024.02.06, Chengdu, China: Yang visit Yun's Family before Chinese New Year
 
+2024.04.02, Beijing, China: danliren stand-up comedy show
+
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
@@ -65,3 +67,6 @@ Some funny videos
     <source src="https://raw.githubusercontent.com/liu-yang-maker/yy-page/main/contents/videos/2.mp4" type="video/mp4">
 </video>
 </center>
+
+
+
