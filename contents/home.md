@@ -52,8 +52,11 @@ liuyang2020[at]amss.ac.cn
     padding: 2px;">first time in Chengdu with you</div>
 </center>
 
+2024.04.30 - 2024.05.05, Jiujiang, China: Yun visit Yang's Family in Labour Day
+
+2024.05.01 - 2024.05.02, Jindezheng, China: Travel with Yang's Family
+
 #### Plans
-2024.05.01, Jiujiang, China: Yun visit Yang's Family
 
 2024.06.26, Beijing, China: Yun's Birthday
 
