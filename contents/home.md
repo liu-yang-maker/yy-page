@@ -37,7 +37,7 @@ liuyang2020[at]amss.ac.cn
 
 2023.12.01 - 2023.12.05, Shanghai, China: Travel and Conference
 
-2024.02.03 - 2024.02.06, Chengdu, China: Yang visit Yun's Family before Chinese New Year
+2024.02.03 - 2024.02.06, Chengdu, China: Yang visit Yun's Family (including your grandma) before Chinese New Year
 
 2024.04.02, Beijing, China: danliren stand-up comedy show
 
@@ -52,9 +52,22 @@ liuyang2020[at]amss.ac.cn
     padding: 2px;">first time in Chengdu with you</div>
 </center>
 
-2024.04.30 - 2024.05.05, Jiujiang, China: Yun visit Yang's Family in Labour Day
+2024.04.30 - 2024.05.05, Jiujiang, China: Yun visit Yang's Family (including my grandma) in Labour Day
 
 2024.05.01 - 2024.05.02, Jindezheng, China: Travel with Yang's Family
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://raw.githubusercontent.com/liu-yang-maker/yy-page/main/contents/figs/jiujiang1.png" width=600> 
+    <br>
+    <div style="color:orange;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">first time in Jiangxi Province with you</div>
+</center>
+
+2024.05.14 - 2024.05.16, Jiujiang, China: Visit Yang's Mom
 
 #### Plans
 
